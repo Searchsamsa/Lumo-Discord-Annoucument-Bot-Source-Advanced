@@ -1,0 +1,2 @@
+D:\GithubNew\3\Discord2\Discord2\Annoucument-Bot\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\3\Discord2\Discord2\Annoucument-Bot\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
